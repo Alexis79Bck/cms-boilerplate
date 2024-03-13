@@ -1,0 +1,8 @@
+@import '/vendor/filament/filament/resources/css/theme.css';
+
+@config 'tailwind.config.js'; 
+
+.fi-body {
+    background-image: url("../../../../public/images/brick-wall-wooden-floor.jpg");
+}
+
